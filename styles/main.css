@@ -1,0 +1,32 @@
+.nav-p{
+  font-family: 'Poppins Regular';
+  font-weight: bold;
+  color: white;
+  font-size:14px;
+  display: inline-block;
+  margin-right: 440px;
+}
+
+ul {
+  position:absolute;
+  top: 25px;
+  left: 135px;
+  list-style-type:none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a{
+  font-family: 'Poppins Medium';
+  font-size: 12px;
+  display:block;
+  color:white;
+  text-decoration: none;
+  margin-left: 45px;
+}
