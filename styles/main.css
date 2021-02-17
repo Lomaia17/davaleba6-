@@ -30,3 +30,15 @@ li a{
   text-decoration: none;
   margin-left: 45px;
 }
+.mid-text{
+  position: absolute;
+  top: 210px;
+  left: 135px;
+  font-family: 'Poppins Extrabold';
+  font-size: 62px;
+  color: white;
+}
+
+.mid-text:last-child{
+  top:290px;
+}
