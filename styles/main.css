@@ -66,6 +66,7 @@ li a{
   color: white;
   background-color: black;
 }
+
 .divborder1{
   position: absolute;
   top: 535px;
@@ -145,7 +146,12 @@ li a{
   display:inline-block;
   left: 690px;
 }
-
+.img1 {
+  margin-right: 12px;
+}
+.img3{
+  margin-top: 16px;
+}
 footer{
   background-color:#121212;
   margin-top: 135px;
