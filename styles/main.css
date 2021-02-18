@@ -128,10 +128,7 @@ li a{
   font-family: 'Poppins Regular';
   font-size: 14px;
   border: none;
-
-
 }
-
 .btn-1:hover{
   background-color:#070A34;
 }
@@ -167,7 +164,7 @@ footer{
 
 .txt5 {
   padding-left: 135px;
-  color: white;
+  color: #B1B1B1;
   font-family: 'Poppins Medium';
   font-size: 14px;
   margin-top: 25px;
