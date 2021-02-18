@@ -29,6 +29,12 @@ li a{
   text-decoration: none;
   margin-left: 45px;
 }
+.dropdown {
+  position: relative;
+  left: 185px;
+  top:-4px;
+  cursor: pointer;
+}
 .mid-text{
   position: absolute;
   top: 210px;
